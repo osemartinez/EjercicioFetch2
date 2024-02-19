@@ -1,0 +1,17 @@
+.card {
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.5rem;
+    margin-top: 40px;
+    
+}
+
+.card-img-top {
+    max-height: 200px;
+
+    
+}
+
+.card-title {
+    font-size: 1.25rem;
+    font-weight: bold;
+}
